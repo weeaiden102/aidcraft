@@ -1,0 +1,25 @@
+{
+  "name": "aidcraft",
+  "version": "1.0.0",
+  "description": "this is my website for my projects and testing and i am using repl.it for hosting",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm install -y && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weeaiden102/aidcraft.tk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weeaiden102/aidcraft.tk/issues"
+  },
+  "homepage": "https://github.com/weeaiden102/aidcraft.tk#readme"
+}
