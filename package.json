@@ -4,7 +4,7 @@
   "description": "this is my website for my projects and testing and i am using repl.it for hosting",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {},
   "scripts": {
